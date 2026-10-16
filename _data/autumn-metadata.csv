@@ -1,14 +1,14 @@
 objectid,title,creator,date,description,subject,location,source (loc repo),identifier (dig ID),type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,image_alt_text,object_transcript
 sample_001,Autumn,"Stanlaws, Penrhyn, artist",[1907],"Poster shows a women, wearing a long yellow coat and matching hat, walking pass trees as the wind blows leaves all around her.","-  Autumn--1900-1910
 -  Women--Clothing & dress--1900-1910
-",[United States] ,"Library Of Congress Prints And Photographs Division Washington, D.C. 20540 Usa Http://Hdl.Loc.Gov/Loc.Pnp/Pp.Print",ppmsca 43424 https://hdl.loc.gov/loc.pnp/ppmsca.43424,print,poster,english,CC,No known restrictions on publication.,,//Users/owner/Documents/GitHub/a1-cb-repo-best/objects/sample_001.jpg
+",[United States] ,"Library Of Congress Prints And Photographs Division Washington, D.C. 20540 Usa Http://Hdl.Loc.Gov/Loc.Pnp/Pp.Print",ppmsca 43424 https://hdl.loc.gov/loc.pnp/ppmsca.43424,print,poster,english,CC,No known restrictions on publication.,,/SI-676/lab_04/sample_001.jpg,,,,
 sample_002,Summer reading for men / painted by T.V. Kelly.,"T.V. Kelly, painter
 Puck Publishing Corporation, publisher",1914 July 18,"Illustration shows a beautiful young woman resting her head on her hands, with long red hair draped over her arms, facing front, against a backdrop of peacock-like feathers.
 ","-  Women--1910-1920
 -  Beauty--1910-1920
 -  Reading--1910-1920
 -  Summer--1910-1920
--  Hair--1910-1920","New York, 295-309 Lafayette Street","Library Of Congress Prints And Photographs Division Washington, D.C. 20540 Usa Http://Hdl.Loc.Gov/Loc.Pnp/Pp.Print",ppmsca 28068 //hdl.loc.gov/loc.pnp/ppmsca.28068,print,magazine cover,english,CC,No known restrictions on publication.,,/SI-676/lab_04/sample_002.jpg,,,,
+-  Hair--1910-1920","New York, 295-309 Lafayette Street","Library Of Congress Prints And Photographs Division Washington, D.C. 20540 Usa Http://Hdl.Loc.Gov/Loc.Pnp/Pp.Print",ppmsca 28068 //hdl.loc.gov/loc.pnp/ppmsca.28068,print,magazine cover,english,CC,No known restrictions on publication.,,/Users/owner/Desktop/SI-676/lab_04/sample_002.jpg,,,,
 sample_003,"Library. Herbert Hoover Federal Building located in downtown Washington, D.C.","Highsmith, Carol M., 1946-, photographer","2018-09-20.
 ","-  Architect is James A Wetmore and it was built in 1930. It is known as the Commerce Building.
 -  Photographed as part of an assignment for the General Services Administration.
@@ -19,11 +19,11 @@ sample_003,"Library. Herbert Hoover Federal Building located in downtown Washing
 -  Commerce Building
 -  James A. Wetmore
 -  Libraries
--  America","Washington, D.C.","Library Of Congress Prints And Photographs Division Washington, D.C. 20540 Usa Http://Hdl.Loc.Gov/Loc.Pnp/Pp.Print",highsm 53335 //hdl.loc.gov/loc.pnp/highsm.53335,photograph,photograph,english,CC,No known restrictions on publication.,,/SI-676/lab_04/sample_003.jpg,,,,
+-  America","Washington, D.C.","Library Of Congress Prints And Photographs Division Washington, D.C. 20540 Usa Http://Hdl.Loc.Gov/Loc.Pnp/Pp.Print",highsm 53335 //hdl.loc.gov/loc.pnp/highsm.53335,photograph,photograph,english,CC,No known restrictions on publication.,,/Users/owner/Desktop/SI-676/lab_04/sample_003.jpg,,,,
 sample_004,Raven,"Color engraving by R. Havell, after drawing by John J. Audubon.
 ","[between 1827 and 1838]
 ","Illus. in: The birds of America / John James Audubon. 4 vols. London, 1827-1838, (Elephant Folio), Vol. II, Pl. 1",,London,"Library Of Congress Prints And Photographs Division Washington, D.C. 20540 Usa
-",cph 3b52369 //hdl.loc.gov/loc.pnp/cph.3b52369,print,print,english,CC,No known restrictions on publication.,,/SI-676/lab_04/sample_004.jpg,,,,
+",cph 3b52369 //hdl.loc.gov/loc.pnp/cph.3b52369,print,print,english,CC,No known restrictions on publication.,,/Users/owner/Desktop/SI-676/lab_04/sample_004.jpg,,,,
 sample_005,"Do spirits return? Houdini says no - and proves it. 3 shows in one : magic, illusions, escapes = fraud mediums exposed.",[publisher not identified],[approximately 1909],,"-  Houdini, Harry,--1874-1926--Performances
 -  Magic
 -  Magicians
@@ -31,4 +31,4 @@ sample_005,"Do spirits return? Houdini says no - and proves it. 3 shows in one :
 source collection Magic poster collection","var 1627 https://hdl.loc.gov/loc.pnp/var.1627
 cph 3b52219 https://hdl.loc.gov/loc.pnp/cph.3b52219
 cph 3a16365 https://hdl.loc.gov/loc.pnp/cph.3a16365
-",print,"poster, woodcut with letterpress",english,CC,No known restrictions on publication.,,/SI-676/lab_04/sample_005.jpg,,,,
+",print,"poster, woodcut with letterpress",english,CC,No known restrictions on publication.,,/Users/owner/Desktop/SI-676/lab_04/sample_005.jpg,,,,
